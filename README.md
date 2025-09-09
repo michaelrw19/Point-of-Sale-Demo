@@ -4,6 +4,5 @@ Demo Video: https://drive.google.com/drive/folders/1G_0xHELZfxQDa4qtKuuetJjGTIUM
 
 Frontend: HTML, CSS, Boostrap, JavaScript, and Vue.js.
 Backend and Database: Python, Flask, SQLite
-This project is still ongoing. The demo video will be updated along with new features added to this program. At some point, an exe file of the program will be uploaded for anyone to try on their own.
 
 Note: For privacy reasons, all of the product, prices, address, and name are fake. They do not correlate to any real products.
