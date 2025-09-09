@@ -6,3 +6,16 @@ Frontend: HTML, CSS, Boostrap, JavaScript, and Vue.js.
 Backend and Database: Python, Flask, SQLite
 
 Note: For privacy reasons, all of the product, prices, address, and name are fake. They do not correlate to any real products.
+
+# Instructions
+There are four accounts with different authorization level that you can use to test the program: 
+Usernames: owner, admin, resupManager, clerk 
+Password: 0000 (same for all)
+
+# Features:
+- Manage orders and supply purchases.
+- Summary of transactions.
+- User authentication and authorization.
+- Receipt printing (Requires ESC/POS printer named "POS-80C" in your computer system).
+- Excel Download (appear in /Downloads).
+- Auto sign out on 15 minutes of idle.
