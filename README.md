@@ -9,8 +9,8 @@ Note: For privacy reasons, all of the product, prices, address, and name are fak
 
 # Instructions
 There are four accounts with different authorization level that you can use to test the program: 
-Usernames: owner, admin, resupManager, clerk 
-Password: 0000 (same for all)
+- Usernames: owner, admin, resupManager, clerk 
+- Password: 0000 (same for all)
 
 # Features:
 - Manage orders and supply purchases.
