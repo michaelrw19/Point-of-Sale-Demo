@@ -1,6 +1,6 @@
 # Point-of-Sale-Demo
 This is a repo to showcase my personal project to create a Point of Sale system to help a retail store transition from a traditional handwritten receipt to a digital receipt.
-Demo Video: https://drive.google.com/drive/folders/1G_0xHELZfxQDa4qtKuuetJjGTIUMas43?usp=sharing
+Demo Video: https://drive.google.com/drive/folders/1G_0xHELZfxQDa4qtKuuetJjGTIUMas43?usp=sharing (Outdated)
 
 Frontend: HTML, CSS, Boostrap, JavaScript, and Vue.js.
 Backend and Database: Python, Flask, SQLite
@@ -8,14 +8,15 @@ Backend and Database: Python, Flask, SQLite
 Note: For privacy reasons, all of the product, prices, address, and name are fake. They do not correlate to any real products.
 
 # Instructions
-There are four accounts with different authorization level that you can use to test the program: 
+Launch POS.exe under /dist and use the following accounts:
 - Usernames: owner, admin, resupManager, clerk 
 - Password: 0000 (same for all)
+Each account has different privileges, owner has the highest authorization level.
 
 # Features:
 - Manage orders and supply purchases.
 - Summary of transactions.
-- User authentication and authorization.
+- User authentication and authorization (RBAC).
 - Receipt printing (Requires ESC/POS printer named "POS-80C" in your computer system).
 - Excel Download (appear in /Downloads).
 - Auto sign out on 15 minutes of idle.
