@@ -1,5 +1,5 @@
 # Point-of-Sale-Demo
-This is a repo to showcase my Point of Sale system to help a retail store transition from a traditional handwritten receipt to a digital receipt. <br>
+This is a repo to showcase my Point of Sale system to help a retail store transition from a traditional handwritten receipt to a digital receipt. More features will be added soon. <br>
 Demo Video: https://drive.google.com/drive/folders/1G_0xHELZfxQDa4qtKuuetJjGTIUMas43?usp=sharing <b>(Outdated)</b>
 
 Frontend: HTML, CSS, Boostrap, JavaScript, and Vue.js. <br>
@@ -14,8 +14,9 @@ Launch POS.exe under /dist and use the following accounts:
 Each account has different privileges, owner has the highest authorization level.
 
 # Features:
-- Manage orders and supply purchases.
-- Summary of transactions.
+- Manage orders various order types and supply purchases.
+- Summary of transactions and driver report.
+- Manage products and price modification, customer list, drivers list, user list.
 - User authentication and authorization (RBAC).
 - Receipt printing (Requires ESC/POS printer named "POS-80C" in your computer system).
 - Excel Download (appear in /Downloads).
