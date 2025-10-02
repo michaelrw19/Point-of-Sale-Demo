@@ -1,5 +1,5 @@
 # Point-of-Sale-Demo
-This is a repo to showcase my Point of Sale system to help a retail store transition from a traditional handwritten receipt to a digital receipt. More features will be added soon. <br>
+This is a repo to showcase my point-of-sale program to help a retail store transition from a traditional handwritten receipt to a digital receipt. More features will be added soon. <br>
 Demo Video: https://drive.google.com/drive/folders/1G_0xHELZfxQDa4qtKuuetJjGTIUMas43?usp=sharing <b>(Outdated)</b>
 
 Frontend: HTML, CSS, Boostrap, JavaScript, and Vue.js. <br>
