@@ -19,5 +19,5 @@ Each account has different privileges, owner has the highest authorization level
 - Manage products and price modification, customer list, drivers list, user list.
 - User authentication and authorization (RBAC).
 - Receipt printing (Requires ESC/POS printer named "POS-80C" in your computer system).
-- Excel Download (appear in /Downloads).
+- Excel Download (appear in /Demo/dist/Excel Files).
 - Auto sign out on 15 minutes of idle.
